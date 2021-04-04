@@ -5,9 +5,9 @@
 
 
 # Techs
-## [x] HTML
-## [x] CSS
-## [x] Vanilla-JS
+* [x] HTML
+* [x] CSS
+* [x] Vanilla-JS
 
 ## Author 
  **Giovana Borges**
