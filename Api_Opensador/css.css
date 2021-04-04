@@ -1,0 +1,45 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rosybrown;
+}
+
+main{
+    margin : 5rem auto;
+    background-color: #101010;
+    width: 70%;
+    height: 100vh;
+    color : whitesmoke;
+    font-family: mulish;
+}
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: brown;
+}
+
+ul{
+    margin: 2rem 0;
+    border-bottom: 2px solid rosybrown;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    border-bottom: rosybrown 1px solid;
+}
+
+input{
+    margin: 15px 30%;
+    width: 40%;
+    height: 2rem;
+    text-align: center;
+    font-size: large;
+}

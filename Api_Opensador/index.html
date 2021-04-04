@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API O Pensador</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="API for get phrases by O Pensador site">
+    <meta name="author" content="Luis Araujo">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap" rel="stylesheet">
+
+    <script src="jquery-3.2.0.min.js"></script>
+    <script src="opensador-api.js"></script>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="css.css">
+    
+ 
+</head>
+<body >
+    <main>
+    <h1>Write a name of an author to see phases of him. Example : Albert Einstein</h1> 
+    <p id="a"></p>
+
+    <input type="text" placeholder="input your answer here"  id="autorzinho" onblur="getname()" oninput="autor()">
+    <ul id="list">
+
+    </ul>
+</main>
+</body>
+</html>
+
+<script>
+    function autor(){
+        var a = document.getElementById('autorzinho').value;
+        document.getElementById('a').innerHTML = " u selected the author "+ a ;
+    }
+</script>

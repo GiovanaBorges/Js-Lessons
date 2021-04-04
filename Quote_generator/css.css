@@ -1,0 +1,71 @@
+body{
+    background-color: #303030;
+    margin:0;
+    padding:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+
+.main{
+    margin:0 auto;
+    background-color: #101010;
+    max-width: 50%;
+    max-height:135vh;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin:0 0;
+    max-height: 125vh;
+    max-width: 100%;
+}
+
+h3{
+    margin:2vh auto;
+    font-size: 25px;
+}
+
+h5{
+    margin:2px auto;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.img_main{
+    max-height: 15%;
+    max-width: 70%;
+    margin: 3px auto;
+    border-radius: 5%;
+    border-style: 5px solid black;
+}
+
+.content_frase{
+    margin:3vh auto;
+    border-style: solid 5px black;
+    height:70%;
+    width: 70%;
+    background-color: rosybrown;
+    
+}
+
+.content_frase .frase{
+    font-size: 17px;
+    
+    margin:12px auto;
+}
+
+.content_frase .autor{
+    text-align: end;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.btn{
+    background-color:rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:5px 40%;
+    height:5vh;
+    width: 25vh;
+}
