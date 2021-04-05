@@ -1,7 +1,7 @@
 # Card-UI trend 2020
 
 ## Preview
-![img2](monkey2.jpg)
+![img](img_card.png)
 
 
 ### Techs
