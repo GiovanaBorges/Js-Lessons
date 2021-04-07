@@ -3,6 +3,7 @@
 # Preview 
 <img src="img_shoes.png" alt="image_snakers">
 
+![gif](gif(3).gif)
 
 # Techs
 * [x] HTML
