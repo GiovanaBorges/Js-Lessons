@@ -3,6 +3,7 @@
 ## Preview
 ![img](clock_img.png)
 
+![](clock.gif)
 
 # Techs
 * [x] HTML 
