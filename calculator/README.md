@@ -5,6 +5,7 @@
 # Preview
 <img src="calculator.png" alt="calculator image">
 
+![](calculator.gif)
 
 # Techs 
 - [x] Javascript
