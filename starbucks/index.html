@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#" class="logo"><img src="assets/logo.png" class="logo"></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">What's expensive</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </header>
+        <div class="content">
+            <div class="textBox">
+                <h2>It's not just Coffe<br> It's <span>Starbucks</span></h2>
+                    <p>So expensive, consectetur adipiscing elit. 
+                        Donec eget libero pretium est porttitor luctus. Vivamus rhoncus orci a orci faucibus, non hendrerit dolor venenatis. Mauris tempor erat sit amet nunc euismod sodales. Mauris iaculis enim vel augue suscipit fermentum. Ut sodales magna lacus, ut congue dui sollicitudin non. In vitae augue id lectus eleifend consequat. Integer in viverra metus. Integer blandit quam vitae ex convallis porta in sed est. Integer posuere
+                        Pellentesque tristique euismod pulvinar.
+                    </p>
+                    <a href="#">Learn More</a>
+            </div>
+            <div class="imgBox">
+                <img src="assets/green.png" class="starbucks">
+            </div>
+        </div>
+
+        <ul class="thumb">
+            <li><img src="assets/green.png" onclick="imgSlider('assets/green.png');changeColor('#017143')"></li>
+            
+            <li><img src="assets/rose.png" onclick="imgSlider('assets/rose.png');changeColor('#edb5c4')"></li>
+        </ul>
+
+        <ul class="sci">
+            <li><a href="#"><img src="assets/facebook.png"></a></li>
+            <li><a href="#"><img src="assets/instagram.png"></a></li>
+            <li><a href="#"><img src="assets/twitter.png"></a></li>
+        </ul>
+    </section>
+</body>
+
+    <script type="text/javascript">
+        function imgSlider(a) {
+            document.querySelector('.starbucks').src = a;
+        }
+        function changeColor(color){
+            const circle = document.querySelector('.circle');
+            const span = document.querySelector('.textBox span');
+            const link = document.querySelector('.textBox a');
+
+            span.style.color = color;
+            circle.style.background = color;
+            link.style.background = color;
+        }
+
+        
+    </script>
+</html>
