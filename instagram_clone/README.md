@@ -1,6 +1,6 @@
 # Instagram clone HTML and CSS
 
-## This project was made , for complete the bootcamp Html
+## This project was made , for complete the bootcamp JavaScript Game Developer
 
 # Visualization 
 <img src="ins.png" alt="result">
