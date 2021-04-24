@@ -3,6 +3,7 @@
 ## Preview
 ![img](img_card.png)
 
+![](gif.gif)
 
 ### Techs
 * [x] HTML 
