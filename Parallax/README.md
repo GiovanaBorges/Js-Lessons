@@ -1,7 +1,7 @@
 # Parallax-effect 
 
 ## Preview
-![img](img_card.png)
+![img](cat.jpg)
 
 ![](gif.gif)
 
