@@ -37,12 +37,17 @@ this is a repository for front-end projects only.
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/LGBTQ_site/gif.gif)
 
 
-[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2003)
+[My code](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2003)
 
 
+## Netflix clone<a name="id04"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Netflix/gif.gif)
 
-## Paralax Cat<a name="id04"></a>
-![Dia 04](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Parallax/gif.gif)
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Netflix)
+
+
+## Paralax Cat<a name="id05"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Parallax/gif.gif)
 
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Parallax)
@@ -50,7 +55,7 @@ this is a repository for front-end projects only.
 
 
 
-## Produts 3D<a name="id05"></a>
+## Produts 3D<a name="id06"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Product_3D/project/preview.gif)
 
 
@@ -58,7 +63,7 @@ this is a repository for front-end projects only.
 
 
 
-## Calculator<a name="id06"></a>
+## Calculator<a name="id07"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
 
 
