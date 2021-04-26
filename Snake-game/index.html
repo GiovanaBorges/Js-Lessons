@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake_game</title>
+    
+    <script defer src="js.js"></script>
+</head>
+<body>
+    <h1>Move to Play!</h1>
+    <div id="box-content">
+        <canvas id="snake" width="512" height="512"></canvas>
+    </div>
+</body>
+
+<style>
+    body{
+    height: 95vh;
+    width: 95;
+
+    font-family: "Verdana";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44,139,44);
+
+    background: #303030;
+
+ 
+}
+
+#box-content{
+    border: 5px solid rgb(255,255,255,0.1);
+    border-radius: 5px;
+    box-shadow: -5px -5px 5px rgba(255,255,255,0.1),
+    15px 15px 15px rgba(0,0,0,0.1),
+    inset -10px -10px 10px rgba(255,255,255,0.1),
+    inset 15px 15px 15px rgba(0,0,0,0.1);
+
+}
+</style>
+</html>
