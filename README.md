@@ -39,7 +39,7 @@ this is a repository for front-end projects only.
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/LGBTQ_site/gif.gif)
 
 
-[My code](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2003)
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/LGBTQ_site)
 
 
 ## Netflix clone<a name="id04"></a>
