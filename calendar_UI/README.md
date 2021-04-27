@@ -8,7 +8,7 @@
 ### Techs
 * [x] HTML 
 * [x] CSS
-* [x] Vanilla Javascript
+* [x] Javascript
 
 ## Author
 ** Giovana Borges **
