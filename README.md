@@ -11,7 +11,7 @@ this is a repository for front-end projects only.
 * [Paralax Cat](#id05)
 * [Produts 3D](#id06)
 * [Calculator](#id07)
-* [cronômetro simples](#id08)
+* [Glassmorphism Calendar UI Design](#id08)
 * [credit card with Glassmorphism](#id09)
 * [Website of Glass](#id10)
 * [Instagram clone HTML and CSS](#id11)
@@ -19,6 +19,7 @@ this is a repository for front-end projects only.
 * [Land page Starbucks](#id13)
 * [Snake Game](#id14)
 * [Shadows CSS](#id15)
+* [Simple chronometer](#id16)
 
 
 ##  [Card-UI trend 2020 <a name="id01"></a>
@@ -48,6 +49,7 @@ this is a repository for front-end projects only.
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Netflix)
 
 
+
 ## Paralax Cat<a name="id05"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Parallax/gif.gif)
 
@@ -73,11 +75,10 @@ this is a repository for front-end projects only.
 
 
 
-##  cronômetro simples<a name="id08"></a>
-![Preview](https://j.gifs.com/71jg6w.gif)
+## Glassmorphism Calendar UI Design<a name="id08"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calendar_UI/gif.gif)
 
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
+[My code](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calendar_UI/gif.gif)
 
 
 
@@ -132,6 +133,13 @@ this is a repository for front-end projects only.
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/SHADOW/shadow.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/SHADOW)
+
+
+## Simple chronometer <a name="id16"></a>
+![Preview](https://j.gifs.com/71jg6w.gif)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
+
 
 
 
