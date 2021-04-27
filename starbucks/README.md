@@ -1,6 +1,6 @@
 # Land page Starbucks
 
-# Visualization 
+# Preview
 <img src="assets/coffe.png" alt="result">
 
 ![](assets/gif.gif)
