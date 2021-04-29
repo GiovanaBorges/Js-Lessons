@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product_glass</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <div class="container">
+        <ul class="thumb">
+            <li onmouseover="change('blue.png' ,'Nike Air Zoom')"><img src="blue.png"></li>
+            
+            <li onmouseover="change('red.png', 'Nike Red')"><img src="red.png"></li>
+            <li onmouseover="change('black.png', 'Nike White')"><img src="black.png"></li>
+        </ul>
+        <div class="imgBox">
+            <h2>Nike Air Zoom</h2>
+            <img src="blue.png" class="shoes">
+            <ul class="size">
+                <span>Sizes:</span>
+                <li>7</li>
+                <li>8</li>
+                <li>9</li>
+                <li>10</li>
+            </ul>
+            <a href="#" class="btn">Add to Cart</a>
+        </div>
+    </div>
+
+    <script>
+        function change(a,title){
+            document.querySelector('.shoes').src= a;
+            document.querySelector('.imgBox h2').innerHTML = title;
+        }
+    </script>
+</body>
+</html>
