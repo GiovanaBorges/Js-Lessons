@@ -10,7 +10,7 @@ this is a repository for front-end projects only.
 * [Netflix clone](#id04)
 * [Paralax Cat](#id05)
 * [Produts 3D](#id06)
-* [Calculator](#id07)
+* [Product glass apresentation](#id07)
 * [Glassmorphism Calendar UI Design](#id08)
 * [credit card with Glassmorphism](#id09)
 * [Website of Glass](#id10)
@@ -20,6 +20,7 @@ this is a repository for front-end projects only.
 * [Snake Game](#id14)
 * [Shadows CSS](#id15)
 * [Simple chronometer](#id16)
+* [Calculator](#id17)
 
 
 ##  [Card-UI trend 2020 <a name="id01"></a>
@@ -67,11 +68,11 @@ this is a repository for front-end projects only.
 
 
 
-## Calculator<a name="id07"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
+## Product glass apresentation<a name="id07"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Product_card_glass/gif.gif)
 
 
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/calculator)
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Product_card_glass)
 
 
 
@@ -140,6 +141,14 @@ this is a repository for front-end projects only.
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
 
+
+
+
+## Calculator<a name="id17"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
+
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/calculator)
 
 
 
