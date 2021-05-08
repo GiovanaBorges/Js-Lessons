@@ -94,7 +94,7 @@ this is a repository for front-end projects only.
 
 
 ##  Website of Glass<a name="id10"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/glassph_Site/glass.gif)
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/glassph_Site/gif.gif)
 
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/glassph_Site)
