@@ -4,31 +4,31 @@ this is a repository for front-end projects only.
 
 
 
-* [Card-UI trend 2020](#id01)
+* [Product glass apresentation](#id01)
 * [Clock UI Dark trend 2020](#id02)
-* [Lgbtq+ LandPage](#id03)
-* [Netflix clone](#id04)
-* [Paralax Cat](#id05)
-* [Produts 3D](#id06)
-* [Product glass apresentation](#id07)
-* [Glassmorphism Calendar UI Design](#id08)
-* [credit card with Glassmorphism](#id09)
-* [Website of Glass](#id10)
-* [Instagram clone HTML and CSS](#id11)
-* [Monkey-Emoji](#id12)
-* [Land page Starbucks](#id13)
-* [Snake Game](#id14)
-* [Hash Game(Jogo da velha)](#id15)
-* [Shadows CSS](#id16)
-* [Simple chronometer](#id17)
-* [Calculator](#id18)
+* [Land page Starbucks](#id03)
+* [Website of Glass](#id04)
+* [Lgbtq+ LandPage](#id05)
+* [Netflix clone](#id06)
+* [Paralax Cat](#id07)
+* [Produts 3D](#id08)
+* [Glassmorphism Calendar UI Design](#id09)
+* [Card-UI trend 2020](#id10)
+* [credit card with Glassmorphism](#id11)
+* [Snake Game](#id12)
+* [Hash Game(Jogo da velha)](#id13)
+* [Shadows CSS](#id14)
+* [Simple chronometer](#id15)
+* [Calculator](#id16)
+* [Instagram clone HTML and CSS](#id17)
+* [Monkey-Emoji](#id18)
 
 
-##  [Card-UI trend 2020 <a name="id01"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Card-ui/gif.gif)
+## Product glass apresentation<a name="id01"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Product_card_glass/gif.gif)
 
 
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Card-ui)
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Product_card_glass)
 
 
 ## Clock UI Dark trend 2020<a name="id02"></a>
@@ -38,21 +38,34 @@ this is a repository for front-end projects only.
 
 
 
-## Lgbtq+ LandPage<a name="id03"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/LGBTQ_site/gif.gif)
+##  Land page Starbucks<a name="id03"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/starbucks/assets/gif.gif)
 
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/starbucks)
+
+
+##  Website of Glass<a name="id04"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/glassph_Site/gif.gif)
+
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/glassph_Site)
+
+
+## Lgbtq+ LandPage<a name="id05"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/LGBTQ_site/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/LGBTQ_site)
 
 
-## Netflix clone<a name="id04"></a>
+## Netflix clone<a name="id06"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Netflix/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Netflix)
 
 
 
-## Paralax Cat<a name="id05"></a>
+## Parallax Cat<a name="id07"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Parallax/gif.gif)
 
 
@@ -60,8 +73,7 @@ this is a repository for front-end projects only.
 
 
 
-
-## Produts 3D<a name="id06"></a>
+## Produts 3D<a name="id08"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Products-3D/gif.gif)
 
 
@@ -69,15 +81,7 @@ this is a repository for front-end projects only.
 
 
 
-## Product glass apresentation<a name="id07"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Product_card_glass/gif.gif)
-
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Product_card_glass)
-
-
-
-## Glassmorphism Calendar UI Design<a name="id08"></a>
+## Glassmorphism Calendar UI Design<a name="id09"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calendar_UI/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calendar_UI/gif.gif)
@@ -85,7 +89,15 @@ this is a repository for front-end projects only.
 
 
 
-##  credit card with Glassmorphism<a name="id09"></a>
+##  [Card-UI trend 2020 <a name="id10"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Card-ui/gif.gif)
+
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Card-ui)
+
+
+
+##  credit card with Glassmorphism<a name="id11"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/glassmorphism/cartao.png)
 
 
@@ -94,15 +106,41 @@ this is a repository for front-end projects only.
 
 
 
-##  Website of Glass<a name="id10"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/glassph_Site/gif.gif)
+
+# Snake Game with Javascript<a name="id12"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Snake-game/gif.gif)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Snake-game)
 
 
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/glassph_Site)
+# Hash Game(Jogo da velha)<a name="id13"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_do_idoso/gif.gif)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_do_idoso)
 
 
 
-##  Instagram clone HTML and CSS<a name="id11"></a>
+# Shadows CSS Effect <a name="id14"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/SHADOW/shadow.png)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/SHADOW)
+
+
+## Simple chronometer <a name="id15"></a>
+![Preview](https://j.gifs.com/71jg6w.gif)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
+
+
+
+## Calculator<a name="id16"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
+
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/calculator)
+
+
+##  Instagram clone HTML and CSS<a name="id17"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/instagram_clone/ins.png)
 
 
@@ -111,52 +149,10 @@ this is a repository for front-end projects only.
 
 
 
-##  Monkey-Emoji<a name="id12"></a>
+##  Monkey-Emoji<a name="id18"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/monkey-emoji/monkey.jpg)
 
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/monkey-emoji)
-
-
-##  Land page Starbucks<a name="id13"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/starbucks/assets/gif.gif)
-
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/starbucks)
-
-
-# Snake Game with Javascript<a name="id14"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Snake-game/gif.gif)
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Snake-game)
-
-
-# Hash Game(Jogo da velha)<a name="id15"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_do_idoso/gif.gif)
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_do_idoso)
-
-
-
-# Shadows CSS Effect <a name="id16"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/SHADOW/shadow.png)
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/SHADOW)
-
-
-## Simple chronometer <a name="id17"></a>
-![Preview](https://j.gifs.com/71jg6w.gif)
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
-
-
-
-
-## Calculator<a name="id18"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
-
-
-[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/calculator)
-
 
 
