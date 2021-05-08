@@ -3,7 +3,7 @@
 # Visualization 
 <img src="img.png" alt="result">
 
-![](glass.gif)
+![](gif.gif)
 ### Techs
 * [x] HTML 
 * [x] CSS
