@@ -18,9 +18,10 @@ this is a repository for front-end projects only.
 * [Monkey-Emoji](#id12)
 * [Land page Starbucks](#id13)
 * [Snake Game](#id14)
-* [Shadows CSS](#id15)
-* [Simple chronometer](#id16)
-* [Calculator](#id17)
+* [Hash Game(Jogo da velha)](#id15)
+* [Shadows CSS](#id16)
+* [Simple chronometer](#id17)
+* [Calculator](#id18)
 
 
 ##  [Card-UI trend 2020 <a name="id01"></a>
@@ -130,13 +131,20 @@ this is a repository for front-end projects only.
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Snake-game)
 
 
-# Shadows CSS Effect <a name="id15"></a>
+# Hash Game(Jogo da velha)<a name="id15"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_do_idoso/gif.gif)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_do_idoso)
+
+
+
+# Shadows CSS Effect <a name="id16"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/SHADOW/shadow.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/SHADOW)
 
 
-## Simple chronometer <a name="id16"></a>
+## Simple chronometer <a name="id17"></a>
 ![Preview](https://j.gifs.com/71jg6w.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
@@ -144,7 +152,7 @@ this is a repository for front-end projects only.
 
 
 
-## Calculator<a name="id17"></a>
+## Calculator<a name="id18"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
 
 
