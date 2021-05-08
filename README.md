@@ -61,7 +61,7 @@ this is a repository for front-end projects only.
 
 
 ## Produts 3D<a name="id06"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Product_3D/project/preview.gif)
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Products-3D/gif.gif)
 
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Product_3D/project)
