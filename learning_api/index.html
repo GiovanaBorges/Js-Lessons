@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coins</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+</head>
+<body style="background-color:#303030;">
+   
+
+    <div class="card-center position-absolute top-0 start-50 translate-middle-x" style="width: 18rem;">
+        
+        <div class="card-body">
+          
+            <div id='coins'></div>
+        </div>
+      </div>
+    
+        
+      
+      
+    <script>
+
+        var apiKey = {
+    key: 'c76daf27-14a9-4be8-9a11-394b86e512e2'
+}
+
+fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY='+ apiKey.key)
+.then((response) =>{
+    if(!response.ok) throw new Error('erro ao execurar requisicao , status' + response.status);
+    return response.json();
+})
+.then((api) =>{
+
+    var texto = "";
+
+    for(let i=0; i< 25 ;i++){
+        console.log(api);
+    
+
+    texto = texto + `
+
+
+    <div class="media p-3">
+    <div class="card shadow-sm p-3 mb-5 bg-body rounded" style="width: 18rem;">
+  <img src="coin.jpg" class="card-img-top" alt="...">
+  <div class="card-body center">
+    <h5 class="mt-2">${api.data[i].name}</h5>
+            <p>${api.data[i].symbol}</p>
+        </div>
+    </div>
+</div>
+ 
+  
+    `;
+    
+    document.getElementById("coins").innerHTML = texto;
+}
+})
+.catch((err) =>{
+    console.error(err.message);
+})
+    </script>
+</body>
+</html>
