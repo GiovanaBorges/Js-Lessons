@@ -142,7 +142,7 @@ this is a repository for front-end projects only(except for a few).
 
 
 ## Game-shooter(Jogo de Naves)<a name="id17"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/tree/main/space-shooter/img/preview.png)
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/space-shooter/img/preview.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/space-shooter)
 
