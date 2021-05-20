@@ -1,8 +1,6 @@
-## HTML, CSS and JS Project
+## HTML, CSS and JS Project.
 
-this is a repository for front-end projects only.
-
-
+this is a repository for front-end projects only(except for a few).
 
 * [Product glass apresentation](#id01)
 * [Clock UI Dark trend 2020](#id02)
@@ -20,8 +18,9 @@ this is a repository for front-end projects only.
 * [Shadows CSS](#id14)
 * [Simple chronometer](#id15)
 * [Calculator](#id16)
-* [Instagram clone HTML and CSS](#id17)
-* [Monkey-Emoji](#id18)
+* [Game-shooter(Jogo de Naves)](#id17)
+* [Instagram clone HTML and CSS](#id18)
+* [Monkey-Emoji](#id19)
 
 
 ## Product glass apresentation<a name="id01"></a>
@@ -140,7 +139,16 @@ this is a repository for front-end projects only.
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/calculator)
 
 
-##  Instagram clone HTML and CSS<a name="id17"></a>
+
+
+## Game-shooter(Jogo de Naves)<a name="id17"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/tree/main/space-shooter/img/preview.png)
+
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/space-shooter)
+
+
+
+##  Instagram clone HTML and CSS<a name="id18"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/instagram_clone/ins.png)
 
 
@@ -149,7 +157,7 @@ this is a repository for front-end projects only.
 
 
 
-##  Monkey-Emoji<a name="id18"></a>
+##  Monkey-Emoji<a name="id19"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/monkey-emoji/monkey.jpg)
 
 
