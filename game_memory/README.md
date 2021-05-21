@@ -3,7 +3,7 @@
 ## This project was made , for complete the bootcamp Javascript developer of Dio(Digital Innovation One).
 
 # Preview 
-<img src="img/.gif.gif" alt="Preview ">
+<img src="img/gif.gif" alt="Preview ">
 
 
 # Techs

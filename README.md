@@ -120,7 +120,7 @@ this is a repository for front-end projects only(except for a few).
 
 
 ## Game-memory(jogo da memória)<a name="id14"></a>
-![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_memory/.gif.gif)
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_memory/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_memory)
 
