@@ -15,12 +15,13 @@ this is a repository for front-end projects only(except for a few).
 * [credit card with Glassmorphism](#id11)
 * [Snake Game](#id12)
 * [Hash Game(Jogo da velha)](#id13)
-* [Shadows CSS](#id14)
-* [Simple chronometer](#id15)
-* [Calculator](#id16)
-* [Game-shooter(Jogo de Naves)](#id17)
-* [Instagram clone HTML and CSS](#id18)
-* [Monkey-Emoji](#id19)
+* [Game-memory(jogo da memória)](#id14)
+* [Shadows CSS](#id15)
+* [Simple chronometer](#id16)
+* [Calculator](#id17)
+* [Game-shooter(Jogo de Naves)](#id18)
+* [Instagram clone HTML and CSS](#id19)
+* [Monkey-Emoji](#id20)
 
 
 ## Product glass apresentation<a name="id01"></a>
@@ -118,21 +119,27 @@ this is a repository for front-end projects only(except for a few).
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_do_idoso)
 
 
+## Game-memory(jogo da memória)<a name="id14"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_memory/.gif.gif)
 
-# Shadows CSS Effect <a name="id14"></a>
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_memory)
+
+
+
+# Shadows CSS Effect <a name="id15"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/SHADOW/shadow.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/SHADOW)
 
 
-## Simple chronometer <a name="id15"></a>
+## Simple chronometer <a name="id16"></a>
 ![Preview](https://j.gifs.com/71jg6w.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
 
 
 
-## Calculator<a name="id16"></a>
+## Calculator<a name="id17"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
 
 
@@ -140,15 +147,13 @@ this is a repository for front-end projects only(except for a few).
 
 
 
-
-## Game-shooter(Jogo de Naves)<a name="id17"></a>
+## Game-shooter(Jogo de Naves)<a name="id18"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/space-shooter/img/preview.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/space-shooter)
 
 
-
-##  Instagram clone HTML and CSS<a name="id18"></a>
+##  Instagram clone HTML and CSS<a name="id19"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/instagram_clone/ins.png)
 
 
@@ -157,7 +162,7 @@ this is a repository for front-end projects only(except for a few).
 
 
 
-##  Monkey-Emoji<a name="id19"></a>
+##  Monkey-Emoji<a name="id20"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/monkey-emoji/monkey.jpg)
 
 
