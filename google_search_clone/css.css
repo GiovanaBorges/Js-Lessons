@@ -18,7 +18,10 @@ section{
 }
 
 section .main{
-    width: 580px;
+    width: 780px;
+    height: 55rem;
+
+  
     
     margin: 0 20px;
     display: flex;
@@ -40,7 +43,7 @@ section .main .searchBx{
 section .main .searchBx .query{
     width: 100%;
     padding: 13px;
-    padding-left: 45px;
+    padding-left: 80px;
     padding-right:60px;
 
     background-color: #202124;
@@ -70,11 +73,12 @@ section .main .searchBx .icons{
 
 section .main .searchBx .icons img{
     max-width: 100%;
+    
 }
 
 .searchBtn{
     margin: 0 5px;
-    margin-top: 20px;
+    margin-top: 30px;
 
     padding: 12px 20px;
     color: white;
