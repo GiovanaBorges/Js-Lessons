@@ -14,15 +14,16 @@ this is a repository for front-end projects only(except for a few).
 * [Card-UI trend 2020](#id10)
 * [credit card with Glassmorphism](#id11)
 * [Grayscale(CSS)](#id12)
-* [Snake Game](#id13)
-* [Hash Game(Jogo da velha)](#id14)
-* [Game-memory(jogo da memória)](#id15)
-* [Shadows CSS](#id16)
-* [Simple chronometer](#id17)
-* [Calculator](#id18)
-* [Game-shooter(Jogo de Naves)](#id19)
-* [Instagram clone HTML and CSS](#id20)
-* [Monkey-Emoji](#id21)
+* [parking registration with Typescript](#id13)
+* [Snake Game](#id14)
+* [Hash Game(Jogo da velha)](#id15)
+* [Game-memory(jogo da memória)](#id16)
+* [Shadows CSS](#id17)
+* [Simple chronometer](#id18)
+* [Calculator](#id19)
+* [Game-shooter(Jogo de Naves)](#id20)
+* [Instagram clone HTML and CSS](#id21)
+* [Monkey-Emoji](#id22)
 
 
 ## Product glass apresentation<a name="id01"></a>
@@ -112,40 +113,46 @@ this is a repository for front-end projects only(except for a few).
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/gray)
 
 
+# parking registration with Typescript<a name="id13"></a>
+![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/estacionamento_ts/gif.gif)
 
-# Snake Game with Javascript<a name="id13"></a>
+[My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/estacionamento_ts)
+
+
+
+# Snake Game with Javascript<a name="id14"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/Snake-game/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/Snake-game)
 
 
-# Hash Game(Jogo da velha)<a name="id14"></a>
+# Hash Game(Jogo da velha)<a name="id15"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_do_idoso/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_do_idoso)
 
 
-## Game-memory(jogo da memória)<a name="id15"></a>
+## Game-memory(jogo da memória)<a name="id16"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/game_memory/gif.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/game_memory)
 
 
 
-# Shadows CSS Effect <a name="id16"></a>
+# Shadows CSS Effect <a name="id17"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/SHADOW/shadow.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/SHADOW)
 
 
-## Simple chronometer <a name="id17"></a>
+## Simple chronometer <a name="id18"></a>
 ![Preview](https://j.gifs.com/71jg6w.gif)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/cronometro)
 
 
 
-## Calculator<a name="id18"></a>
+## Calculator<a name="id19"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/calculator/calculator.gif)
 
 
@@ -153,13 +160,13 @@ this is a repository for front-end projects only(except for a few).
 
 
 
-## Game-shooter(Jogo de Naves)<a name="id19"></a>
+## Game-shooter(Jogo de Naves)<a name="id20"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/space-shooter/img/preview.png)
 
 [My code](https://github.com/GiovanaBorges/Js-Lessons/tree/main/space-shooter)
 
 
-##  Instagram clone HTML and CSS<a name="id20"></a>
+##  Instagram clone HTML and CSS<a name="id21"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/instagram_clone/ins.png)
 
 
@@ -168,7 +175,7 @@ this is a repository for front-end projects only(except for a few).
 
 
 
-##  Monkey-Emoji<a name="id21"></a>
+##  Monkey-Emoji<a name="id22"></a>
 ![Preview](https://github.com/GiovanaBorges/Js-Lessons/blob/main/monkey-emoji/monkey.jpg)
 
 
