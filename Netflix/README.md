@@ -2,7 +2,7 @@
 
 ## This project was made , for complete the bootcamp HTML Developer
 
-# Visualization 
+# Preview
 <img src="preview.png" alt="result">
 
 ![](gif.gif)
